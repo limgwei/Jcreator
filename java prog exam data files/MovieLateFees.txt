@@ -1,0 +1,18 @@
+Movie ID:11
+Title: aa
+Rating: PG-13
+Days Late: 11 
+total late fees: RM22.0
+Movie ID:11
+Title: aa
+Rating: PG-13
+Days Late: 11
+AwardWinner:no
+Late Fees:88.0
+Movie ID:11
+Title: aa
+Rating: PG-13
+Days Late: 11
+AwardWinner:yes
+Late Fees:176.0
+
